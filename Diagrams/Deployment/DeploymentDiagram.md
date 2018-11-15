@@ -1,2 +1,2 @@
 # Диаграмма развертывания
-![](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/Deployment/Deployment%20Diagram.jpg)
+![](https://github.com/DashKarn/MoneyManager/blob/master/Diagrams/Deployment/Deployment.png)
