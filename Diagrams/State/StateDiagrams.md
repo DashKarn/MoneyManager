@@ -1,7 +1,5 @@
 # Диаграммы состояний
-## 1. Вход
-![](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/State/StateSignIn.jpg)
-## 2. Регистрация
-![](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/State/StateSignUp.jpg)
-## 3. Поиск книги
-![](https://github.com/SvetaReznichenko-650503/OnlineLibrary/blob/master/docs/System%20project/State/StateSearch.jpg)
+## 1. Добавление операции
+![](https://github.com/DashKarn/MoneyManager/blob/master/Diagrams/State/Add.png)
+## 2. Паказать график
+![](https://github.com/DashKarn/MoneyManager/blob/master/Diagrams/State/Show.png)
