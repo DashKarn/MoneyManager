@@ -1,0 +1,14 @@
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\bin\Debug\CSLesson6.exe.config
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\bin\Debug\CSLesson6.exe
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\bin\Debug\CSLesson6.pdb
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\obj\Debug\CSLesson6.csprojResolveAssemblyReference.cache
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\obj\Debug\CSLesson6.Properties.Resources.resources
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\obj\Debug\CSLesson6.csproj.GenerateResource.Cache
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\obj\Debug\CSLesson6.exe
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\obj\Debug\CSLesson6.pdb
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\obj\Debug\CSLesson6.Form1.resources
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\bin\Debug\CSMoney.dll
+c:\users\winserg\documents\visual studio 2015\Projects\CSLesson6\CSLesson6\bin\Debug\CSMoney.pdb
+D:\5 семестр\ТРиТПО\My\CSLesson6\obj\Debug\CSLesson6.csprojAssemblyReference.cache
+D:\5 семестр\ТРиТПО\My\CSLesson6\obj\Debug\CSLesson6.exe
+D:\5 семестр\ТРиТПО\My\CSLesson6\obj\Debug\CSLesson6.pdb

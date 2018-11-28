@@ -1,0 +1,4 @@
+C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\SomeConsoleApp\SomeClassLibrary\bin\Debug\SomeClassLibrary.dll
+C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\SomeConsoleApp\SomeClassLibrary\bin\Debug\SomeClassLibrary.pdb
+C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\SomeConsoleApp\SomeClassLibrary\obj\Debug\SomeClassLibrary.dll
+C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\SomeConsoleApp\SomeClassLibrary\obj\Debug\SomeClassLibrary.pdb

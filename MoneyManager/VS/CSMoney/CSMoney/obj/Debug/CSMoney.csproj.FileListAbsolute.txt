@@ -1,0 +1,11 @@
+C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\CSMoney\CSMoney\bin\Debug\CSMoney.dll
+C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\CSMoney\CSMoney\bin\Debug\CSMoney.pdb
+C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\CSMoney\CSMoney\obj\Debug\CSMoney.csprojResolveAssemblyReference.cache
+C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\CSMoney\CSMoney\obj\Debug\CSMoney.dll
+C:\Users\WinSerg\Documents\Visual Studio 2015\Projects\CSLesson6\VS\CSMoney\CSMoney\obj\Debug\CSMoney.pdb
+D:\5 семестр\ТРиТПО\My\VS\CSMoney\CSMoney\bin\Debug\CSMoney.dll
+D:\5 семестр\ТРиТПО\My\VS\CSMoney\CSMoney\bin\Debug\CSMoney.pdb
+D:\5 семестр\ТРиТПО\My\VS\CSMoney\CSMoney\obj\Debug\CSMoney.csprojAssemblyReference.cache
+D:\5 семестр\ТРиТПО\My\VS\CSMoney\CSMoney\obj\Debug\CSMoney.csproj.CoreCompileInputs.cache
+D:\5 семестр\ТРиТПО\My\VS\CSMoney\CSMoney\obj\Debug\CSMoney.dll
+D:\5 семестр\ТРиТПО\My\VS\CSMoney\CSMoney\obj\Debug\CSMoney.pdb
